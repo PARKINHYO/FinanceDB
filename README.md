@@ -101,3 +101,22 @@
 <p align="center">
 <img alt="character" width="800" src="https://user-images.githubusercontent.com/47745785/114269887-4e79f080-9a44-11eb-86f3-b03d2d4313cd.png" />
 </p>
+
+## 🖋 Author
+
+👤 **박인효**
+
+* Mail: [inhyopark122@gmail.com](mailto:inhyopark122@gmail.com)
+* GitHub: [@PARKINHYO](https://github.com/PARKINHYO)
+
+👤 **이진재**
+
+* Mail: [leejinjae7@gmail.com](mailto:leejinjae7@gmail.com)
+* GitHub: [@loftmain](https://github.com/loftmain)
+
+## 📝 License
+
+Copyright © 2021 [박인효](https://github.com/parkinhyo).<br/>
+This project is [MIT](https://github.com/PARKINHYO/FinanceDB/blob/master/LICENSE) licensed.
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
